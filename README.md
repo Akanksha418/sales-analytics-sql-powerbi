@@ -78,7 +78,7 @@ The Power BI dashboard visualizes:
 Each visual in the dashboard is backed by an equivalent **SQL query**.
 
 Below is the interactive Power BI dashboard built on top of the MySQL analysis:
-![Power BI Dashboard](dashboard.png)
+
 
 ---
 
